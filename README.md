@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 😄 Kotlin lover
-- 📗 UNIVERSITY TECHNICIAN STUDENT IN MOBILE APPLICATION DEVELOPMENT at UNLAM UNIVERSITY
+- 🚀 UNIVERSITY TECHNICIAN IN MOBILE APPLICATION DEVELOPMENT 🚀
 <br>
 
 [![GitHub stars](https://img.shields.io/github/stars/Dangerous875?style=social)](https://github.com/Dangerous875)
